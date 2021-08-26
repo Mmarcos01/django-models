@@ -1,0 +1,34 @@
+body {
+    margin-left: 50px;
+}
+
+a {
+    color: rgb(65, 160, 214);
+    font-family: 'Fredoka One', cursive;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+h2 a {
+    color: coral;
+    font-family: 'Fredoka One', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    color: coral;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+
+}
+
+h3 {
+    /* color: rgb(146, 22, 84); */
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+
