@@ -15,4 +15,3 @@ This project demonstrates the creation of an app and model within [Django](https
 
 ### Resource
 [Django Docs](https://www.djangoproject.com/)
-[Styling in Django](https://tutorial.djangogirls.org/en/css/)
